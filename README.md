@@ -3,6 +3,7 @@ GitHub repository with a treasure bunch of datasets, notebooks, and ML algorithm
 
 -WiDS: likelihood of the patient’s Diagnosis Period being less than 90 days.
 
-
 -Detecting Pneumonia from Chest X-rays
+
+-Customer Review Analysis of Amazon Products with Natural Language Processing.
 
