@@ -7,3 +7,5 @@ GitHub repository with a treasure bunch of datasets, notebooks, and ML algorithm
 
 -Customer Review Analysis of Amazon Products with Natural Language Processing.
 
+- Airbnb Price Prediction - Linear regression and visualizations.
+
