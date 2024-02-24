@@ -1,11 +1,14 @@
 # **Machine Learning Ideas Repository**
-GitHub repository with a treasure bunch of datasets, notebooks, and ML algorithms. From competitions to practice, explore, learn, and innovate in the world of machine learning. 
 
--WiDS: likelihood of the patient’s Diagnosis Period being less than 90 days.
+Welcome to the Machine Learning Ideas Repository! This repository is a treasure bunch of datasets, notebooks, and machine learning algorithms.
 
--Detecting Pneumonia from Chest X-rays
+Contents
 
--Customer Review Analysis of Amazon Products with Natural Language Processing.
+    WiDS: Diagnosis Period Likelihood
+    Detecting Pneumonia from Chest X-rays
+    Customer Review Analysis of Amazon Products
+    Airbnb Price Prediction
+    [and more...]
 
--Airbnb Price Prediction - Linear regression and visualizations.
+Happy exploring, learning, and innovating in the field of machine learning! 🚀🧠
 
